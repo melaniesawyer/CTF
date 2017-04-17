@@ -5,5 +5,3 @@
 **Hint:**
 >Can you leak out any information using SQL injection?
 
-Solution:
-* <http://ehsandev.com/pico2014/web_exploitation/injection_4.html>

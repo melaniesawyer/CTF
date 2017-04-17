@@ -3,5 +3,3 @@
 http://web2014.picoctf.com/injection1/
 
 
-Solution:
-<http://ehsandev.com/pico2014/web_exploitation/injection_1.html>
